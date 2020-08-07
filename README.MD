@@ -2,7 +2,7 @@
 
 ## Intro
 
-This repo contains the code used to train the models and evaluate French Q&A models trained on French Q&A datasets. This code leverages Hugging Face's off-the-shelf training scripts.
+This repo contains the code used to train the models and evaluate French Q&A models trained on French Q&A datasets. This code leverages Hugging Face's off-the-shelf [training scripts](https://github.com/huggingface/transformers/blob/master/examples/question-answering/run_squad.py).
 
 ## Preparing the data
 
